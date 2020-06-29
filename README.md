@@ -1,6 +1,6 @@
 # album-records-db-system
 
-This is a graphical user interface that allows a user ineract with an album record database. They are able to perform some actions with the database
+This is a graphical user interface that allows a user interact with an album record database. They are able to perform some actions with the database
 
 Some key features:
 1. Insert album
